@@ -1,0 +1,7 @@
+kernel: kernel
+ramdisk: ramdisk/
+header version: 3
+os_version: 13.0.0
+os_patch_level: 2025-11
+pagesize: 4096
+cmdline: ''
