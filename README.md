@@ -1,0 +1,20 @@
+## missi_phone_global-user 14 UKQ1.240624.001 OS2.0.17.0.UMSMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: lahaina
+- Codename: redwood
+- Brand: Redmi
+- Flavor: missi_phone_global-user
+- Release Version: 14
+- Kernel Version: 5.4.289
+- Id: UKQ1.240624.001
+- Incremental: OS2.0.17.0.UMSMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/redwood/redwood:13/RKQ1.211001.001/OS2.0.17.0.UMSMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phone_global-user-14-UKQ1.240624.001-OS2.0.17.0.UMSMIXM-release-keys
+- Repo: redmi_redwood_dump
